@@ -1,5 +1,7 @@
-<https://pstu.ru/enrollee/speciality/faculties/gumf/<>
+''' python
+print('hello world)
+'''
 
-[абитуриент](https://pstu.ru/enrollee/speciality/faculties/gumf/ "ддд")
-
-![img](94.jpg)
+|1 столб.|2столб.|3столб.|
+|--------|-------|--------|
+|данные1 столбца|данные2|данные3|
