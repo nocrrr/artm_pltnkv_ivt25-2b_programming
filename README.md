@@ -1,5 +1,5 @@
 ''' python
-print('hello world)
+print('hello world')
 '''
 
 |1 столб.|2столб.|3столб.|
